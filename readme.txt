@@ -1,3 +1,9 @@
+1. Retourner les N plus grands éléments d'une liste et leurs index : Cette fonction permet de sélectionner les N éléments les plus grands d'une liste donnée et de retourner à la fois les éléments sélectionnés et leurs index dans la liste d'origine.
+
+# La liste doit être composée de valeurs pouvant être converties en entiers (par exemple, des entiers ou des chaînes de caractères représentant des entiers).
+# La valeur de N doit être inférieure ou égale à la longueur de la liste.
+# Si N n'est pas spécifié ou n'est pas un nombre compris entre 1 et la longueur de la liste, la fonction par défaut retournera le plus petit élément et son index.
+
 2. Retourner les N plus petits éléments d'une liste et leurs index : Cette fonction permet de sélectionner les N éléments les plus petits d'une liste donnée et de retourner à la fois les éléments sélectionnés et leurs index dans la liste d'origine. Les erreurs gérées sont les suivantes :
 
 # La liste doit être composée de valeurs pouvant être converties en entiers (par exemple, des entiers ou des chaînes de caractères représentant des entiers).
